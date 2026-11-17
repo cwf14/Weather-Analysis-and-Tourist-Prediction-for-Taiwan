@@ -5,8 +5,6 @@
 
 A modern full-stack web application that combines **React + MUI** frontend with a **FastAPI** backend and custom-trained machine learning models to provide real-time weather insights, typhoon probability predictions, tourist trends, and travel recommendations across Taiwan.
 
-**Video Demo:**  https://youtu.be/wOSVLxpouP8
-
 ---
 
 ### Features

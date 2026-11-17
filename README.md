@@ -1,4 +1,4 @@
-# Assignemnt 3 - AI-Powered Prediction Web Application
+# Assignment 3 - AI-Powered Prediction Web Application
 
 **Full-Stack Web Application with React.js + FastAPI + AI Model Integratioon**
 *Final Project - Full-Stack Web Development for AI Application*

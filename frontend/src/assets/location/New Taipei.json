@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Yehliu Geopark",
+    "imagePath": "images/yehliu_geopark.png",
+    "location": "No. 167-1, Kantung Road, Wanli District, New Taipei City 207, Taiwan",
+    "description": "A world-famous geological park known for unique rock formations such as the Queen’s Head, honeycomb rocks, and sea-eroded landscapes."
+  },
+  {
+    "name": "Baishawan Beach",
+    "imagePath": "images/baishawan.png",
+    "location": "No. 264, Baishawan Road, Shimen District, New Taipei City 253, Taiwan",
+    "description": "A popular white-sand beach offering swimming, surfing, and scenic coastal views, ideal for seaside relaxation."
+  },
+  {
+    "name": "Green Bay",
+    "imagePath": "images/green_bay.png",
+    "location": "No. 1-2, Fulong Street, Jinshan District, New Taipei City, Taiwan",
+    "description": "A well-loved beach destination known for water activities, beach resorts, and stunning ocean scenery."
+  },
+  {
+    "name": "Guanyinshan Scenic Area",
+    "imagePath": "images/guanyinshan.png",
+    "location": "Guanyinshan, Wugu District, New Taipei City, Taiwan",
+    "description": "A mountain area with hiking trails, panoramic views, rock formations, and a famous vantage point overlooking the Tamsui River."
+  },
+  {
+    "name": "MITSUI Outlet Park Linkou",
+    "imagePath": "images/mitsui_outlet_park.png",
+    "location": "No. 356, Section 1, Wenhua Road, Linkou District, New Taipei City 244, Taiwan",
+    "description": "A large shopping complex offering international brands, restaurants, entertainment, and family-friendly facilities."
+  },
+  {
+    "name": "Ruifang Special Scenic Area",
+    "imagePath": "images/ruifang_scenic_area.png",
+    "location": "Ruifang District, New Taipei City, Taiwan",
+    "description": "A scenic region famous for waterfalls, old streets, and mountain views, with access to Jiufen, Jinguashi, and Shifen."
+  },
+  {
+    "name": "Ocean World",
+    "imagePath": "images/ocean_world.png",
+    "location": "No. 6-4, Shalun Road, Tamsui District, New Taipei City 251, Taiwan",
+    "description": "A coastal attraction featuring marine-themed shows, ocean exhibits, and family entertainment."
+  },
+  {
+    "name": "Jinshan Tourist Site",
+    "imagePath": "images/jinshan_tourist_site.png",
+    "location": "Jinshan District, New Taipei City, Taiwan",
+    "description": "A well-known tourist area with hot springs, temples, seafood markets, and scenic coastal landscapes."
+  },
+  {
+    "name": "Sanzhi Tourist Site",
+    "imagePath": "images/sanzhi_tourist_site.png",
+    "location": "Sanzhi District, New Taipei City, Taiwan",
+    "description": "A peaceful seaside district known for beaches, cafés, art spaces, and oceanfront leisure spots."
+  },
+  {
+    "name": "Yun Hsien Resort",
+    "imagePath": "images/yun_hsien_resort.png",
+    "location": "No. 1, Yunxian Road, Wulai District, New Taipei City 233, Taiwan",
+    "description": "A mountain resort accessible by cable car, offering nature trails, recreational facilities, and tranquil forest surroundings."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Maolin District",
+    "imagePath": "images/maolin_district.png",
+    "location": "Maolin District, Kaohsiung City 851, Taiwan",
+    "description": "A mountainous indigenous region known for butterfly migration, hot springs, scenic valleys, and peaceful nature trails."
+  },
+  {
+    "name": "Boalai and Bulao Hot Springs Area",
+    "imagePath": "images/boalai_bulao_hot_springs.png",
+    "location": "Bo'ai Village, Liugui District, Kaohsiung City 844, Taiwan",
+    "description": "A popular hot spring region offering natural mineral-rich waters, forest scenery, and multiple relaxing bath facilities."
+  },
+  {
+    "name": "Meishan Visitor Center",
+    "imagePath": "images/meishan_visitor_center.png",
+    "location": "No. 150, Meishan Road, Taoyuan District, Kaohsiung City 848, Taiwan",
+    "description": "A gateway to southern mountain attractions with ecological displays, local culture exhibits, and panoramic views."
+  },
+  {
+    "name": "Shoushan Zoo",
+    "imagePath": "images/shoushan_zoo.png",
+    "location": "No. 350, Wanshou Road, Gushan District, Kaohsiung City 804, Taiwan",
+    "description": "A family-friendly zoo featuring diverse wildlife, animal exhibits, and nature trails near the scenic Shoushan area."
+  },
+  {
+    "name": "Lotus Pond",
+    "imagePath": "images/lotus_pond.png",
+    "location": "Lianchitan, Zuoying District, Kaohsiung City 813, Taiwan",
+    "description": "A famous lake surrounded by temples, pagodas, and scenic walkways, ideal for sightseeing and photography."
+  },
+  {
+    "name": "National Science and Technology Museum",
+    "imagePath": "images/national_science_tech_museum.png",
+    "location": "No. 720, Jiouru 1st Road, Sanmin District, Kaohsiung City 807, Taiwan",
+    "description": "A large interactive science museum offering hands-on exhibits, technological displays, and educational exhibitions."
+  },
+  {
+    "name": "Kaohsiung Museum of Fine Arts",
+    "imagePath": "images/kaoshiung_museum_fine_arts.png",
+    "location": "No. 80, Meishuguan Road, Gushan District, Kaohsiung City 804, Taiwan",
+    "description": "A major fine arts museum featuring contemporary and traditional art exhibitions within a peaceful park setting."
+  },
+  {
+    "name": "Kaohsiung Museum of History",
+    "imagePath": "images/kaohsiung_museum_history.png",
+    "location": "No. 272, Zhongzheng 4th Road, Yancheng District, Kaohsiung City 803, Taiwan",
+    "description": "A historic building showcasing Kaohsiung’s cultural evolution, local heritage, and maritime history."
+  },
+  {
+    "name": "Kaohsiung Cultural Center",
+    "imagePath": "images/kaohsiung_cultural_center.png",
+    "location": "No. 67, Wufu 1st Road, Lingya District, Kaohsiung City 802, Taiwan",
+    "description": "A major cultural hub hosting concerts, exhibitions, performances, and various arts-related events."
+  }
+]

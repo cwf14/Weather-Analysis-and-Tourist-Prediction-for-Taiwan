@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Zengwun Dam",
+    "imagePath": "images/zengwun_dam.png",
+    "location": "No. 70, Nanxi Village, Nansi District, Tainan City, Taiwan",
+    "description": "Zengwun Dam is one of Taiwan’s largest reservoirs, serving irrigation, water supply, and flood control. The surrounding area is scenic with mountain views."
+  },
+  {
+    "name": "Wu Shan Tou Reservoir",
+    "imagePath": "images/wu_shan_tou_reservoir.png",
+    "location": "No. 68-2, Jianan Village, Guantian District, Tainan City, Taiwan 720",
+    "description": "Wushantou Reservoir, also known as Coral Lake, is a historic reservoir designed by engineer Yoichi Hatta. It is known for calm water scenery, walking trails, and recreation areas."
+  },
+  {
+    "name": "Tsou-Ma-Lai Farm",
+    "imagePath": "images/tsou_ma_lai_farm.png",
+    "location": "Danei District, Tainan City, Taiwan",
+    "description": "Tsou-Ma-Lai Farm is a large recreational farm featuring open grasslands, camping areas, fruit orchards, animal zones, and seasonal outdoor activities."
+  },
+  {
+    "name": "Leopard King Safari Zoo",
+    "imagePath": "images/leopard_king_safari_zoo.png",
+    "location": "No. 75-25, San Qing Village, Xuejia District, Tainan City, Taiwan 726",
+    "description": "Leopard King Safari Zoo, also called Wanpi World Safari Zoo, is a popular family attraction with a wide range of animals, interactive areas, and ecological exhibits."
+  },
+  {
+    "name": "Chimei Museum",
+    "imagePath": "images/chimei_museum.png",
+    "location": "No. 66, Section 2, Wenhua Road, Rende District, Tainan City 71755, Taiwan",
+    "description": "Chimei Museum is known for its extensive collections including Western art, musical instruments, natural history specimens, and one of the world’s largest violin collections."
+  },
+  {
+    "name": "Daitianfu Temple, Madou",
+    "imagePath": "images/daitianfu_temple_madou.png",
+    "location": "No. 60, Guandi Village, Madou District, Tainan City, Taiwan",
+    "description": "Madou Daitianfu Temple is a large Taoist temple notable for its grand architecture, dragon tunnel walkway, and a unique underground ‘Heaven and Hell’ attraction."
+  },
+  {
+    "name": "Chikan Tower",
+    "imagePath": "images/chikan_tower.png",
+    "location": "No. 201, Wufei Street, West Central District, Tainan City, Taiwan",
+    "description": "Chikan Tower, originally Fort Provintia built by the Dutch in 1653, is a historic landmark known for its classical architecture, courtyards, and cultural exhibits."
+  },
+  {
+    "name": "Confucius Temple",
+    "imagePath": "images/confucius_temple.png",
+    "location": "No. 2, Nanmen Road, West Central District, Tainan City, Taiwan",
+    "description": "The Tainan Confucius Temple is one of the oldest Confucian temples in Taiwan, featuring traditional courtyards, preserved historic halls, and cultural events."
+  },
+  {
+    "name": "War God Temple",
+    "imagePath": "images/war_god_temple.png",
+    "location": "229, Section 2, Yongfu Road, West Central District, Tainan City 700, Taiwan",
+    "description": "The War God Temple is dedicated to the historical figure Guan Yu. It is known for its colorful decorations, wooden carvings, and long-standing cultural importance."
+  },
+  {
+    "name": "Anping Recreation Area",
+    "imagePath": "images/anping_recreation_area.png",
+    "location": "Anping District, Tainan City, Taiwan",
+    "description": "The Anping Recreation Area includes seafront parks, historic streets, coastal scenery, and major attractions such as Anping Old Street and historic forts."
+  }
+]

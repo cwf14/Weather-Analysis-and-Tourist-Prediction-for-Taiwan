@@ -1,0 +1,62 @@
+[
+  {
+    "name": "National Museum of Natural Science",
+    "imagePath": "images/national_museum_natural_science.png",
+    "location": "No. 1, Guanqian Road, North District, Taichung City 404, Taiwan",
+    "description": "A major science museum featuring exhibits on biology, space science, ecology, and technology, along with botanical gardens and interactive displays."
+  },
+  {
+    "name": "Ta-Keng Hiking Path",
+    "imagePath": "images/ta_keng_hiking_path.png",
+    "location": "Dakeng Scenic Area, Beitun District, Taichung City, Taiwan",
+    "description": "A popular nature area with multiple hiking trails, wooden bridges, forest scenery, and viewpoints overlooking Taichung City."
+  },
+  {
+    "name": "Fushoushan Farm",
+    "imagePath": "images/fushoushan_farm.png",
+    "location": "No. 18, Fushou Road, Heping District, Taichung City, Taiwan",
+    "description": "A high-altitude farm famous for cool weather, fruits, tea fields, maple leaves, and panoramic mountain views."
+  },
+  {
+    "name": "Wuci Tourist Fish Port",
+    "imagePath": "images/wuci_tourist_fish_port.png",
+    "location": "No. 30, Section 2, Zhongshan Road, Qingshui District, Taichung City, Taiwan",
+    "description": "A coastal harbor known for fresh seafood markets, sunset views, and weekend tourist activities."
+  },
+  {
+    "name": "Calligraphy Greenway",
+    "imagePath": "images/calligraphy_greenway.png",
+    "location": "West District to North District, Taichung City, Taiwan",
+    "description": "A long urban green corridor filled with public art, cafés, cultural spaces, and walking paths connecting major attractions."
+  },
+  {
+    "name": "LihPao Resort",
+    "imagePath": "images/lihpaoresort.png",
+    "location": "No. 88, Section 1, Anmei Road, Houli District, Taichung City 421, Taiwan",
+    "description": "A large entertainment complex featuring a theme park, water park, shopping mall, racetrack, and family-friendly attractions."
+  },
+  {
+    "name": "Dongshi Forest Garden",
+    "imagePath": "images/dongshi_forest_garden.png",
+    "location": "No. 6, Linchang Road, Dongshi District, Taichung City, Taiwan",
+    "description": "A forest recreation area with flower gardens, forest trails, picnic spots, and seasonal scenery such as tung blossoms."
+  },
+  {
+    "name": "Wan-He Temple",
+    "imagePath": "images/wan_he_temple.png",
+    "location": "No. 51, Sec. 1, Xingnan Road, Nantun District, Taichung City, Taiwan",
+    "description": "A historic temple known for intricate architecture, traditional religious ceremonies, and cultural heritage."
+  },
+  {
+    "name": "Taichung Park",
+    "imagePath": "images/taichung_park.png",
+    "location": "No. 65, Section 1, Shuangshi Road, North District, Taichung City, Taiwan",
+    "description": "One of Taichung’s oldest parks, featuring a scenic lake, historic pavilion, walking paths, and open green spaces."
+  },
+  {
+    "name": "Gaomei Wetland",
+    "imagePath": "images/gaomei_wetland.png",
+    "location": "Meidi Street, Qingshui District, Taichung City, Taiwan",
+    "description": "A famous coastal wetland with boardwalks, migratory birds, wind turbines, and breathtaking sunset views."
+  }
+]

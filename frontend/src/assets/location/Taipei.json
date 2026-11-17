@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Yangmingshan Visitor Center",
+    "imagePath": "images/yangmingshan_visitor_center.png",
+    "location": "No. 1‑20, Zhuzihu Road, Beitou District, Taipei City, 11292, Taiwan", 
+    "description": "The main visitor center of Yangmingshan National Park, providing exhibits about the park’s ecology, geology, and human history, plus information services and guided tours."
+  },
+  {
+    "name": "Yangmingshuwu",
+    "imagePath": "images/yangmingshuwu.png",
+    "location": "No. 12, Zhongxing Road, Beitou District, Taipei City, 11292, Taiwan", 
+    "description": "Former summer residence of Chiang Kai-shek, now a visitor service station with historical exhibits, guided tours, and a model of the Zhongxing Guesthouse." 
+  },
+  {
+    "name": "Yangming Park",
+    "imagePath": "images/yangming_park.png",
+    "location": "Yangmingshan National Park, Shilin/Beitou Districts, Taipei City, Taiwan", 
+    "description": "A scenic park in Yangmingshan National Park featuring flower gardens, walking paths, and views of the city — a popular place for relaxing and hiking." 
+  },
+  {
+    "name": "Datun Recreation Area",
+    "imagePath": "images/datun_recreation_area.png",
+    "location": "Yangmingshan National Park, Beitou District, Taipei City, Taiwan", 
+    "description": "A volcanic recreation area in Yangmingshan with hiking trails, volcanic landforms, and rich ecological scenery, part of the Datun volcanic group." 
+  },
+  {
+    "name": "Taipei Astronomical Museum",
+    "imagePath": "images/taipei_astronomical_museum.png",
+    "location": "No. 363, Jihe Road, Shilin District, Taipei City, Taiwan", 
+    "description": "A museum dedicated to astronomy, featuring exhibition areas on ancient astronomy, space technology, the solar system, a dome theater, and observatories." 
+  },
+  {
+    "name": "Taipei Water Park",
+    "imagePath": "images/taipei_water_park.png",
+    "location": "No. 1, Siyuan Street, Zhongzheng District, Taipei City, Taiwan", 
+    "description": "An environmental education park and museum in the former Gongguan waterworks site. It includes the Museum of Drinking Water and facilities for ecological learning and recreation." 
+  },
+  {
+    "name": "National Chiang Kai‑shek Memorial Hall",
+    "imagePath": "images/national_chiang_kai_shek_memorial_hall.png",
+    "location": "No. 21, Zhongshan South Road, Zhongzheng District, Taipei City, Taiwan", 
+    "description": "A national monument built in memory of Chiang Kai-shek, featuring a large plaza, gardens, a ceremonial changing of the guard, and exhibition halls."
+  },
+  {
+    "name": "Taipei 101",
+    "imagePath": "images/taipei_101.png",
+    "location": "No. 7, Section 5, Xinyi Road, Xinyi District, Taipei City, Taiwan", 
+    "description": "One of the world’s tallest skyscrapers, famous for its observation decks, shopping mall, and architectural design symbolizing bamboo stalks."
+  },
+  {
+    "name": "Beitou Hot Spring Museum",
+    "imagePath": "images/beitou_hot_spring_museum.png",
+    "location": "No. 2, Zhongshan Road, Beitou District, Taipei City, Taiwan", 
+    "description": "Housed in a historic Japanese-era bathhouse, this museum showcases the history of hot springs in Beitou, traditional bathing culture, and the area’s geology." 
+  },
+  {
+    "name": "National Taiwan Museum",
+    "imagePath": "images/national_taiwan_museum.png",
+    "location": "No. 2, Section 1, Zhongzheng South Road, Zhongzheng District, Taipei City, Taiwan", 
+    "description": "Taiwan’s oldest museum, presenting natural history, cultural relics, and anthropology. Located near the 228 Peace Memorial Park." 
+  }
+]
